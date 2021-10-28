@@ -1,0 +1,56 @@
+.board-square {
+    border: 0.5px solid black;
+    text-align: center;
+    width: 18px !important;
+    height: 22px !important;
+    background-color: #e3e3e3;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#board {
+    margin: 200px auto;
+    border: 1px solid black;
+    background-color: lightgray;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.magenta {
+    color: magenta;
+}
+
+.navy {
+    color: navy;
+}
+
+.gold {
+    color: goldenrod;
+}
+
+.minePNG {
+    height: 15px;
+    width: 15px;
+}
+
+#button {
+    position: relative;
+    background-color: red;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+body {
+    background-color: #111111;
+}
